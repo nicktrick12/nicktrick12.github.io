@@ -1,0 +1,18 @@
+body{
+    background-color:#e9fccf;
+}
+header{
+    text-align: center;
+    font-family: 'Courgette', cursive;
+}
+section{
+    background-color: #b1fcb3;
+    border-radius: 12px;
+    padding: 12px;
+    width: 600px;
+    margin: auto;
+
+}
+#div2{
+    text-align: center;
+}
